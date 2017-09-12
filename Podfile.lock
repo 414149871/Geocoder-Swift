@@ -1,0 +1,12 @@
+PODS:
+  - MapboxGeocoder.swift (0.6.2)
+
+DEPENDENCIES:
+  - MapboxGeocoder.swift (~> 0.6)
+
+SPEC CHECKSUMS:
+  MapboxGeocoder.swift: ec63783e8752b9d2435aeee33fe4640da8f9c2c6
+
+PODFILE CHECKSUM: e610d9adbf2b6b3ef5c68ac595d50b14046fe756
+
+COCOAPODS: 1.3.0.beta.1

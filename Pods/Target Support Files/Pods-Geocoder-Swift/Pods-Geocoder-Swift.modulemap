@@ -1,0 +1,6 @@
+framework module Pods_Geocoder_Swift {
+  umbrella header "Pods-Geocoder-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
