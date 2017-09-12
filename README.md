@@ -1,2 +1,17 @@
 # Geocoder-Swift
-Basic on Mapbox .Geocoder in Swift 
+
+The map on this project based on [MapBox](https://www.mapbox.com). And here are some relation [doc](https://github.com/mapbox/MapboxGeocoder.swift#getting-started) for the API.
+
+
+
+##Getting started
+Specify the following dependency in your CocoaPods Podfile:
+
+`pod 'MapboxGeocoder.swift', '~> 0.6'`
+
+
+ A Mapbox access token is required to use the Geocoding API.
+[Input your Access Token](https://www.mapbox.com/help/create-api-access-token/)
+
+`let MapboxAccessToken = "your Mapbox access token "`
+
