@@ -32,8 +32,6 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
-	<key>MGLMapboxAccessToken</key>
-	<string>pk.eyJ1Ijoicmlja2xpdSIsImEiOiJjajN6aDRyZHQwM2R4MndwbHAwMnFuNWtwIn0.PZ6FsP0M05XdbSTM2PyiWg</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Shows your location on the map and helps improve OpenStreetMap.</string>
 </dict>
